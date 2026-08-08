@@ -142,7 +142,7 @@ class _LoginPageState extends State<LoginPage> {
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
                 const Text(
-                  'Money Notes',
+                  'Doni Pay',
 
                   textAlign: TextAlign.center,
                   style: TextStyle(

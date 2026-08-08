@@ -117,7 +117,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 const SizedBox(height: 16),
 
                 const Text(
-                  'Money Notes',
+                  'Doni Pay',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 28,
